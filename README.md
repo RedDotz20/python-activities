@@ -1,8 +1,16 @@
-# Python Activities
+# 🐍 Python Activities
 
-## List of Activities
+<p>
+  <a aria-label="Github commit activity" href="" title="Github commit activity">
+    <img src="https://img.shields.io/github/commit-activity/w/RedDotz20/python-activities?style=for-the-badge">
+  </a>
+</p>
 
-- [[04/24/24] | pandas-practice-part1](./pandas-practice-part1/):
+Discover a curated list of diverse Python projects, showcasing applications, libraries, and tools across different domains.
+
+## ✏️ List of Activities
+
+- ✔️ [[04/24/24] | pandas-practice-part1](./pandas-practice-part1/):
   - display data using pandas that includes Purchase_Data and Titanic csv files
 
 ## 💡 Prerequisites and Requirements
