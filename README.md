@@ -4,6 +4,11 @@
   <a aria-label="Github commit activity" href="" title="Github commit activity">
     <img src="https://img.shields.io/github/commit-activity/w/RedDotz20/python-activities?style=for-the-badge">
   </a>
+  <a aria-label="LICENSE" href="./LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge">
+  <a aria-label="GitHub contributors" href="https://github.com/RedDotz20/python-activities/graphs/contributors" title="GitHub contributors">
+    <img src="https://img.shields.io/github/contributors/RedDotz20/python-activities?color=orange&style=for-the-badge">
+  </a>
 </p>
 
 Discover a curated list of diverse Python projects, showcasing applications, libraries, and tools across different domains.
