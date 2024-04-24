@@ -1,0 +1,15 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Python cache directories
+__pycache__
+
+# Virtual environment directories
+venv/
+env/
+
+# Hidden system files
+.DS_Store
