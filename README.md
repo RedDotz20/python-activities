@@ -25,7 +25,7 @@ Before running the application or opening projects, make sure you have the follo
 - Python `v3.6` or later
 - pip `v10.0.1` or later
 
->**NOTE:**  for further information about the requirements, please visit the Official Python Documentaion: [click here](https://docs.python.org/3/)
+>**NOTE:**  for further information about the requirements, please visit the Official Python docs: [click here](https://docs.python.org/3/)
 
 ## 🛠 Installation
 
